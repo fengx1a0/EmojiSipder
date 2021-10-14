@@ -4,7 +4,7 @@
 
 接到了这样一个需求
 
-![image-20211015001158778](img\image-20211015001158778.png)
+![image-20211015001158778](img/image-20211015001158778.png)
 
 [知乎](https://www.zhihu.com/question/384940007/answer/2143770367)
 
@@ -16,11 +16,11 @@
 
 按照需求写的第一版，以 https://fabiaoqing.com/ 为源，对其标签页进行了批量的爬取以及本地化
 
-<img src="img\image-20211015002433400.png" alt="image-20211015002433400" style="zoom:50%;" />
+<img src="img/image-20211015002433400.png" alt="image-20211015002433400" style="zoom:50%;" />
 
 ### Sipder_fixed
 
-<img src="img\image-20211015002653904.png" alt="image-20211015002653904" style="zoom:50%;" />
+<img src="img/image-20211015002653904.png" alt="image-20211015002653904" style="zoom:50%;" />
 
 反应说太多太杂，想要的不想要的一并下下来了
 
@@ -30,7 +30,7 @@
 
 dst/表情包批量下载(fabiaoqing.com).exe
 
-<img src="img\image-20211015003140279.png" alt="image-20211015003140279" style="zoom:50%;" />
+<img src="img/image-20211015003140279.png" alt="image-20211015003140279" style="zoom:50%;" />
 
 ### Enhanced
 
@@ -44,5 +44,5 @@ dst/表情包批量下载(fabiaoqing.com).exe
 
 dst/表情包指定页面批量下载(多站).exe
 
-<img src="img\image-20211015003451626.png" alt="image-20211015003451626" style="zoom:50%;" />
+<img src="img/image-20211015003451626.png" alt="image-20211015003451626" style="zoom:50%;" />
 
